@@ -1,2 +1,2 @@
 # SpeechToTextProxy
-Node server to enable simple secure peer-to-peer messaging
+Proxy Server to communicate with Google Speech API
